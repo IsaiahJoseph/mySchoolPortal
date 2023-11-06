@@ -1,0 +1,252 @@
+[
+    {
+        "studentId": 1020,
+        "Name": "Joseph Isaiah",
+        "Matric No": "U19CM1020",
+        "Email": "josaias2022@gmail.com",
+        "Phone": "08167449433",
+        "State": "Kogi",
+        "Gender": "Male",
+        "Program": "B.Eng. Electronics & Telecommunications Engineering",
+        "Department": "ELECTRONICS AND TELECOMMUNICATIONS ENGINEERING",
+        "CurrentLevel": "300L",
+        "GraduatedLevels": {
+            "yr1":"100L",
+            "yr2":"200L"
+        },
+        "PreviousSessions": {
+            "L1":"2019",
+            "L2":"2021"
+        }
+            
+        ,
+        "imageUrl": "assets/img/IMG_20220410_160624_042.jpg",
+        "Grad. Status": "Not Graduated",
+        "Course Reg": {
+            "Reg":"Registered",
+            "NotReg":"Not Registered"},
+        "Nationality": "NIGERIA",
+        "LGA": "Yagba-East",
+        "Marital Status": "Single",
+        "DOB": "2002-11-23",
+        "Place of Birth": "hospital",
+        "Religion": "Christianity",
+        "Health Record": "Health Record",
+        "Other Phone Number": "+2348167449433",
+        "Contact Address": "A11 harvester avenue poly quaters",
+        "Home Address": "A11 harvester avenue poly quaters",
+        "Home Town": "Kaduna state",
+        "Next of Kin Name": "joseph timothy",
+        "Next of Kin GSM": "08091968605",
+        "Next of Kin Address": "A11 harvester avenue poly quaters",
+        "Blood Group": "B",
+        "Genotype": "AA",
+        "Disability": "Disability",
+        "Sponsor": "joseph timothy",
+        "Other Sponsor": "joseph rebecca",
+        "Sports": "table tennis",
+        "fees": [
+            {
+                "Start Date": "Aug 29 2023",
+                "End Date": "Aug 29 2023",
+                "Amount Due": "₦ 39,900.00",
+                "Paid": " ₦ 40,400.00",
+                "Pending": "₦ 0.00",
+                "session": "2021/2022"
+            },
+            {
+                "Start Date": "Aug 15 2021",
+                "End Date": "Aug 27 2021",
+                "Amount Due": "₦ 31,500.00",
+                "Paid": "₦ 31,500.00",
+                "Pending": "₦ 0.00",
+                "session": "2019/2020"
+            }
+        ],
+        "Account Number": "0520047757",
+        "Account Balance": "₦ 0.00",
+        "Hostels": {
+            "Hostel": "Shehu Idris Hall",
+            "Block": "B",
+            "Room No": "B17",
+            "Status": "PAID",
+            "Amount Payable": "₦7,090.00"
+        },
+        "y1 courses": [
+            {
+                "course-code": "CHEM101",
+                "course-title": " Introductory General Chemistry"
+            },
+            {
+                "course-code": "CHEM121",
+                "course-title": " Introductory Inorganic Chemistry"
+            },
+            {
+                "course-code": "CHEM161",
+                "course-title": " Introductory Chemistry Practicals I"
+            },
+            {
+                "course-code": "COSC101",
+                "course-title": " Introduction to Computing"
+            },
+            {
+                "course-code": "GENS101",
+                "course-title": " NATIONALISM"
+            },
+            {
+                "course-code": "GENS103",
+                "course-title": " ENGLISH AND COMMUNICATION SKILLS"
+            },
+            {
+                "course-code": "MATH101",
+                "course-title": " SETS AND NUMBER SYSTEMS"
+            },
+            {
+                "course-code": "MATH103",
+                "course-title": " TRIGONOMETRY AND CO-ORDINATE GEOMETRY"
+            },
+            {
+                "course-code": "MATH105",
+                "course-title": " DIFFERENTIAL AND INTEGRAL CALCULUS"
+            },
+            {
+                "course-code": "PHYS111",
+                "course-title": " Introductory Mechanics"
+            },
+            {
+                "course-code": "PHYS131",
+                "course-title": " Heat and Properties of Matter"
+            },
+            {
+                "course-code": "PHYS161",
+                "course-title": " General Physics Practical I"
+            },
+            {
+                "course-code": "CHEM112",
+                "course-title": " Introductory Physical Chemistry"
+            },
+            {
+                "course-code": "CHEM162",
+                "course-title": " Introductory Chemistry Practicals II"
+            },
+            {
+                "course-code": "ENGG102",
+                "course-title": " Introduction to Engineering Profession"
+            },
+            {
+                "course-code": "GENS104",
+                "course-title": " HISTORY AND PHILOSOPHY OF SCIENCE"
+            },
+            {
+                "course-code": "MATH102",
+                "course-title": " ALGEBRA"
+            },
+            {
+                "course-code": "MATH104",
+                "course-title": " CONIC SECTIONS AND APPLICATION OF CALCULUS"
+            },
+            {
+                "course-code": "MATH106",
+                "course-title": " VECTORS AND DYNAMIC"
+            },
+            {
+                "course-code": "PHYS122",
+                "course-title": " Electricity, Magnetism and Modern Physics"
+            },
+            {
+                "course-code": "PHYS124",
+                "course-title": " Geometric and Wave Optics"
+            },
+            {
+                "course-code": "PHYS162",
+                "course-title": " General Physics Practical ii"
+            },
+            {
+                "course-code": "STAT102",
+                "course-title": " INTRODUCTORY STATISTICS ii"
+            }
+        ],
+        "y2 courses": [
+            {
+                "course-code": "CVEN201",
+                "course-title": " Introductory General Chemistry"
+            },
+            {
+                "course-code": "EEEN201",
+                "course-title": " ELECTRICAL CIRCUIT & FIELD THEORY"
+            },
+            {
+                "course-code": "EEEN203",
+                "course-title": " ELECTRIC MACHINE, POWER & INSTALLATION"
+            },
+            {
+                "course-code": "ETEN201",
+                "course-title": " Introduction to Electronic Communications I"
+            },
+            {
+                "course-code": "MATH241",
+                "course-title": " Calculus I"
+            },
+            {
+                "course-code": "MATH243",
+                "course-title": " Methods of Linear Algebra I"
+            },
+            {
+                "course-code": "MEEN201",
+                "course-title": " ENGINEERING GRAPHICS"
+            },
+            {
+                "course-code": "MMEN201",
+                "course-title": " FUNDAMENTAL OF MATERIAL SCIENCE"
+            },
+            {
+                "course-code": "WREN201",
+                "course-title": " FLUID MECHANICS1"
+            },
+            {
+                "course-code": "CHEN202",
+                "course-title": " Introduction to Management"
+            },
+            {
+                "course-code": "EEEN202",
+                "course-title": " ELECTRONICS, MEASUREMENT & TRANSDUCERS"
+            },
+            {
+                "course-code": "ENGG299",
+                "course-title": " Student Work Experience Programme (SWEP)"
+            },
+            {
+                "course-code": "ETEN202",
+                "course-title": " Introduction to Electronic Communications II"
+            },
+            {
+                "course-code": "GENS202",
+                "course-title": " ENTERPRENEURSHIP AND INNOVATION"
+            },
+            {
+                "course-code": "MATH242",
+                "course-title": " Calculus II"
+            },
+            {
+                "course-code": "MATH244",
+                "course-title": " Methods of Linear Algebra II"
+            },
+            {
+                "course-code": "MEEN202",
+                "course-title": " ENGINEERING DRAWING"
+            },
+            {
+                "course-code": "MEEN204",
+                "course-title": " STRENGHT OF MATERIALS I"
+            },
+            {
+                "course-code": "MEEN206",
+                "course-title": " FUNDAMENTALS OF DYNAMICS"
+            },
+            {
+                "course-code": "MEEN208",
+                "course-title": " BASIC THERMODYNAMICS"
+            }
+        ]
+    }
+]
